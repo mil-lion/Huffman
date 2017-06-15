@@ -1,1 +1,1 @@
-# Algirithm Huffman
+# Algorithm Huffman
